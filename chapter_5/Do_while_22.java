@@ -9,6 +9,7 @@ public class Do_while_22 {
         int i = sc.nextInt();
 
         // its enter the loop without checking condition
+        // it is graranted to execute at least once
         do {
             System.out.println(i);
             i++;
