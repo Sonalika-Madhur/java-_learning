@@ -1,4 +1,4 @@
-package chapter01.P_Question;
+package chapter_01.P_Question;
 
 public class P_cgpa {
     public static void main(String[] args) {

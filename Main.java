@@ -7,7 +7,6 @@ public class Main { // for classes we use PascalCaseConvention
         int sum = num1 + num2 + num3;
         System.out.println(sum);
         System.out.println("Hello, World!");
-
         // for functions we use camelCaseConvention();
         // example: myFirstFunction();
 

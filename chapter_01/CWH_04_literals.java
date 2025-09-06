@@ -1,4 +1,4 @@
-package chapter01;
+package chapter_01;
 
 public class CWH_04_literals {
     public static void main(String[] args) {

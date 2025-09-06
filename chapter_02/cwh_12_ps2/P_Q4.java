@@ -7,5 +7,6 @@ public class P_Q4 {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         System.out.println(a);
+
     }
 }
