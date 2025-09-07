@@ -9,7 +9,7 @@ public class Do_while_22 {
         int i = sc.nextInt();
 
         // its enter the loop without checking condition
-        // it is graranted to execute at least once
+        // it is graranted to execute at least oncgit e
         do {
             System.out.println(i);
             i++;
